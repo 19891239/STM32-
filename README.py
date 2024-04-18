@@ -1,5 +1,6 @@
 /*
-  *112 CSVS 011024 學習歷程
+  *112 學年度第二學期 CSVS 
+  *學號011024 學習歷程
 */
 #include "main.h"
 #include "tim.h"
